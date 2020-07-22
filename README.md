@@ -2,8 +2,9 @@
 
 #Comment:
 1. This application is developed using vue.js and webpack;
-2. All the codes are stored in the dist file, which is published using webpack
-3. There are two webpack js file within this store:
+2. All the codes are stored in the dist file, which is published using webpack;
+3. All the codes are optimised using webpack technologies;
+4. There are two webpack js file within this store:
    - "webpack.config.js" is used during development. run "npm run dev"
    - "webpack.publish.config.js" is used for publishing. run "npm run pub"
    
